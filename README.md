@@ -1,4 +1,4 @@
-# sustainable-data-cookbook
+# Sustainable Data Cookbook: Recepies for Sustainable Data
 
 ## Content coming soon...
 
