@@ -1,0 +1,66 @@
+{
+	"title": "Sustainable Data Cookbook: Recipes for Sustainable Data",
+	"authors": [
+		"[Aare Puussaar|https://github.com/aarepuu]"
+	],
+	"images": {
+		"cover": "|cover.png|Hands cracking an egg into the pan, adding salt and some mobile phones.|Decisions on how data is collected, stored and used, are having major long-term environmental, economic, and social impacts!|@henry|",
+		"search": "|cover.png|A photograph of Boomy the cat sleeping|Boomy's looking for something...|@henry|",
+		"media": "|cover.png|A photograph of Boomy the cat sleeping|Boomy's looking for something...|@henry|",
+		"glossary": "|cover.png|A photograph of Boomy the cat looking skeptical.|Boomy doesn't know what you mean.|@henry|",
+		"references": "|cover.png|A photograph of Boomy the cat sleeping|Boomy has some books for you!|@henry|",
+		"index": "|cover.png|A photograph of Boomy the cat sleeping|Boomy's wondering what word you're curious about!|@henry|",		
+		"unknown": "|unknown.png|A photograph of Boomy the cat looking skeptical.|Boomy is worried that you're lost.|@henry|"
+	},
+	"description": "Data has become the de facto ingredient in decision-making processes and its value has increased in the past 5 years to the point that some call data “the new oil”. Decisions on how data is collected, stored and used, are having major long-term environmental, economic, and social impacts. However, we are not yet thinking about data sustainably – consequently, our relationship with data is detrimental to the health of the internet and society. In this cookbook, we offer series of data recipes, step-by-step easy to follow guides, that can change our working practices with data across its lifecycle. This resource can be used to engage with data practitioners and the wider community, who have interests in working toward a sustainable data future. \n\nThis cookbook started from a workshop ran at [MozFest22|https://schedule.mozillafestival.org/s/K7E9EG-1], but is now a living open-source document on GitHub. To submit ideas and feedback use [issues|https://github.com/aarepuu/sustainable-data-cookbook/issues] on the cookbook's GitHub page.",
+	"acknowledgements": "This work is supported by the [Centre for Digital Citizen|https://www.digitalcitizens.uk/] project.",
+	"chapters": [
+		{
+			"id": "introduction",
+			"title": "Introduction",
+			"image": "|cover.png|Hands cracking an egg into the pan, adding salt and some mobile phones.|Decisions on how data is collected, stored and used, are having major long-term environmental, economic, and social impacts!|@henry|",
+			"numbered": true
+		},
+		{
+			"id": "examples", 
+			"title": "Examples", 
+			"authors": ["[Aare Puussaar|https://github.com/aarepuu]"],
+			"image": "|cover.png|Hands cracking an egg into the pan, adding salt and some mobile phones.|Example uses of recipes.|@henry|",
+			"numbered": false,
+			"section": "Practical"
+		},		
+		{
+			"id": "tools", 
+			"title": "Tools", 
+			"authors": ["[Aare Puussaar|https://github.com/aarepuu]"],
+			"image": "|cover.png|Hands cracking an egg into the pan, adding salt and some mobile phones.|Practical uses of recipes.|@henry|",
+			"numbered": false,
+			"section": "Practical"
+		}
+	],
+	"tags": [ "draft" ],
+	"revisions": [
+		["March 23th, 2022", "Created the initial draft."]
+	],
+	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
+	"sources": {
+	},
+	"references": {
+	},
+	"symbols": {
+		"aare": "Aare Puussaar",
+		"henry": "Henry Collingham",
+		"hello": "Hi, I am _symbolic_ text."
+	},
+	"glossary": {
+		"gloss": {
+			"phrase": "glossary",
+			"definition": "An alphabetical list of *terms* or _words_ found in or relating to a specific subject, text, or dialect, with explanations; a brief dictionary.",
+			"synonyms": ["dictionary"]
+		},
+		"mouse": {
+			"phrase": "mouse",
+			"definition": "A cute little mammal."
+		}
+	}
+}

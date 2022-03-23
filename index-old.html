@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body, html {
+  height: 100vh;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("cover.png");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.links {
+    position:absolute;
+    width:100%;
+    bottom:7vh;
+    text-align:center;    
+}
+ a {
+  color:red;
+}
+/* For mobile devices */
+@media only screen and (max-width: 767px) {
+  .bg {
+    /* The file size of this background image is 93% smaller
+     * to improve page load speed on mobile internet connections */
+    background-image: url(cover-mobile.png);
+  }
+	}
+</style>
+</head>
+<body>
+
+<div class="bg">
+	<div class="links"> 
+	<a target="_blank" href="https://github.com/aarepuu/sustainable-data-cookbook"><i class="fa fa-github" style="font-size:60px"></i></a>
+	</div>
+</div>
+
+</body>
+</html>
