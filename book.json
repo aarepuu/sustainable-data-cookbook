@@ -58,9 +58,9 @@
 			"definition": "An alphabetical list of *terms* or _words_ found in or relating to a specific subject, text, or dialect, with explanations; a brief dictionary.",
 			"synonyms": ["dictionary"]
 		},
-		"mouse": {
-			"phrase": "mouse",
-			"definition": "A cute little mammal."
+		"datum": {
+			"phrase": "datum",
+			"definition": "Refers to a singular unit of data."
 		}
 	}
 }
