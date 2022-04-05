@@ -12,7 +12,7 @@
 		"index": "|cover.png|A photograph of Boomy the cat sleeping|Boomy's wondering what word you're curious about!|@henry|",		
 		"unknown": "|unknown.png|A photograph of Boomy the cat looking skeptical.|Boomy is worried that you're lost.|@henry|"
 	},
-	"description": "Data has become the de facto ingredient in decision-making processes and its value has increased in the past 5 years to the point that some call data “the new oil”. Decisions on how data is collected, stored and used, are having major long-term environmental, economic, and social impacts. However, we are not yet thinking about data sustainably – consequently, our relationship with data is detrimental to the health of the internet and society. In this cookbook, we offer series of data recipes, step-by-step easy to follow guides, that can change our working practices with data across its lifecycle. This resource can be used to engage with data practitioners and the wider community, who have interests in working toward a sustainable data future. \n\nThis cookbook started from a workshop ran at [MozFest22|https://schedule.mozillafestival.org/s/K7E9EG-1], but is now a living open-source document on GitHub. To submit ideas and feedback use [issues|https://github.com/aarepuu/sustainable-data-cookbook/issues] on the [cookbook's GitHub page|https://github.com/aarepuu/sustainable-data-cookbook].",
+	"description": "Data has become the de facto ingredient in decision-making processes and its value has increased in the past 5 years to the point that some call data “the new oil”. Decisions on how data are collected, stored and used, are having major long-term environmental, economic, and social impacts. However, we are not yet thinking about data sustainably – consequently, our relationship with data are detrimental to the health of the internet and society. In this cookbook, we offer series of data recipes, step-by-step easy to follow guides, that can change our working practices with data across its lifecycle. This resource can be used to engage with data practitioners and the wider community, who have interests in working toward a sustainable data future. \n\nThis cookbook started from a workshop ran at [MozFest22|https://schedule.mozillafestival.org/s/K7E9EG-1], but is now a living open-source document on GitHub. To submit ideas and feedback use [issues|https://github.com/aarepuu/sustainable-data-cookbook/issues] on the [cookbook's GitHub page|https://github.com/aarepuu/sustainable-data-cookbook].",
 	"acknowledgements": "Thanks to Henry Collingham the amazing visuals for the cookbook. Special thanks to [Amy J. Ko|https://amyjko.com] for creating [Bookish|https://github.com/amyjko/bookish], the awesome framework powering this cookbook. This content on this page is based on work supported by the [Centre for Digital Citizen|https://www.digitalcitizens.uk/] project.",
 	"chapters": [
 		{
@@ -40,12 +40,13 @@
 	],
 	"tags": [ "draft" ],
 	"revisions": [
-		["March 23th, 2022", "Created the initial draft."]
+		["March 23th, 2022", "Created the initial page."]
 	],
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"sources": {
 	},
 	"references": {
+		"idcstatista20": "IDC & Statista, 2020"
 	},
 	"symbols": {
 		"aare": "Aare Puussaar",
@@ -61,6 +62,10 @@
 		"datum": {
 			"phrase": "datum",
 			"definition": "Refers to a singular unit of data."
+		},
+		"zettabyte": {
+			"phrase": "zettabyte",
+			"definition": "A multiple of the unit byte that is used to measure digital storage, and it is equivalent to 1,000,000,000,000,000,000,000 (10^21^) bytes"
 		}
 	}
 }
