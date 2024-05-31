@@ -6,6 +6,6 @@ This cookbook is a collaborative effort at Northumbria University to help engage
 
 It's a open source, living document so please submit issues, pull requests, or other feedback!
 
-You can find the book at [sustainabledata.recipes](https://sustainabledata.recipes/)
+You can find the book at [https://aarepuu.github.io/sustainable-data-cookbook/](https://aarepuu.github.io/sustainable-data-cookbook/)
 
 The cookbook is currently maintained by Aare Puussaar, a researcher at Nothumbria University, UK.
